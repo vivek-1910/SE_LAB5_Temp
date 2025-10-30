@@ -1,0 +1,2 @@
+Flake8 produces no output when there are zero style/PEP8 violations.
+The original empty file therefore indicated a clean report.
